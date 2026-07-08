@@ -3,7 +3,7 @@ Aluno: martim A
 Treinador poderoso chefin: xiribi
 Capitão: papa leao
 Formação tática: 4-4-2
-Estádio / Alcunha: larpers
+Estádio / Alcunha: blablabal
 
 No Posição Jogador
 1 GR - Pantheon do LoL
