@@ -4,6 +4,7 @@ Treinador poderoso chefin: xiribi
 Capitão: papa leao
 Formação tática: 4-4-2
 Estádio / Alcunha: coco
+Estádio / Alcunha: alo tas ocupada
 
 No Posição Jogador
 1 GR - Pantheon do LoL
